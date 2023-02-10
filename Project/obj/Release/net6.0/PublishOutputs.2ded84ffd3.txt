@@ -1,0 +1,5 @@
+C:\Users\lochlan.mascall\OneDrive - TAFE\C#\Release\Project.exe
+C:\Users\lochlan.mascall\OneDrive - TAFE\C#\Release\Project.dll
+C:\Users\lochlan.mascall\OneDrive - TAFE\C#\Release\Project.deps.json
+C:\Users\lochlan.mascall\OneDrive - TAFE\C#\Release\Project.runtimeconfig.json
+C:\Users\lochlan.mascall\OneDrive - TAFE\C#\Release\Project.pdb
